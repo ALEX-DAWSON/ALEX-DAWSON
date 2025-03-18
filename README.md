@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ALEX-DAWSON
-- 👀 I’m interested in Web and Graphic Design
-- 🌱 I’m currently learning Codespaces and Figma
-- 💞️ I’m looking to collaborate on: Not sure yet
+- 👀 I’m interested in: Web and Graphic Design
+- 🌱 I’m currently learning: Javascript (again)
+- 💞️ I’m looking to collaborate on: widgets or anything really.
 - 📫 How to reach me: alexdawsonbusiness@gmail.com
-
+- You can find my professional site at [deadon.rip](https://deadon.rip)
+- You can look at my personal site at either [Neocities](https://deadonrip.neocities.org) or [Nekoweb](https://deadonrip.nekoweb.org)
