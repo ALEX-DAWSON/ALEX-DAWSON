@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ALEX-DAWSON
-- 👀 I’m interested in: Web and Graphic Design, and GNU/Linux operating Systems
+- 👀 I’m interested in: Web and Graphic Design, and GNU/Linux Operating Systems
 - 🌱 I’m currently learning: Javascript (again), Bash Scripting
 - 💞️ I’m looking to collaborate on: widgets or anything really.
 - 📫 How to reach me: alexdawsonbusiness@gmail.com
