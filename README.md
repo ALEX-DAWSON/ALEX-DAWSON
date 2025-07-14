@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ALEX-DAWSON
-- 👀 I’m interested in: Web and Graphic Design
-- 🌱 I’m currently learning: Javascript (again)
+- 👀 I’m interested in: Web and Graphic Design, and GNU/Linux operating Systems
+- 🌱 I’m currently learning: Javascript (again), Bash Scripting
 - 💞️ I’m looking to collaborate on: widgets or anything really.
 - 📫 How to reach me: alexdawsonbusiness@gmail.com
-- You can find my professional site at [deadon.rip](https://deadon.rip)
-- You can look at my personal site at either [Neocities](https://deadonrip.neocities.org) or [Nekoweb](https://deadonrip.nekoweb.org)
+- You can look at my personal site at [Nekoweb: deadon.rip](https://deadon.rip)
