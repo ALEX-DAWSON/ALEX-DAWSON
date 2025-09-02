@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ALEX-DAWSON
 - 👀 I’m interested in: Web and Graphic Design, and GNU/Linux Operating Systems
-- 🌱 I’m currently learning: Javascript (again), Bash Scripting
+- 🌱 I’m currently learning: Bash Scripting & Lua
 - 💞️ I’m looking to collaborate on: widgets or anything really.
 - 📫 How to reach me: alexdawsonbusiness@gmail.com
 - You can look at my personal site at [Nekoweb: deadon.rip](https://deadon.rip)
